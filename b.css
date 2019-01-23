@@ -1,0 +1,34 @@
+.b {
+  position: relative;
+  background-size: cover;
+  width: 96vw;
+  height: 96vh;
+  margin: 1vw;
+}
+
+.layover {
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 100%;
+  height: 100%;
+}
+
+.b span {
+  font-size: 30px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.roma {
+    background-image: url(img/roma.jpeg);
+}
+
+.londra {
+  background-image: url(img/londra.jpeg);
+}
+
+.parigi {
+  background-image: url(img/parigi.jpeg);
+}
