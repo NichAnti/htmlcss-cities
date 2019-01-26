@@ -7,14 +7,14 @@
 }
 
 .layover {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.4);
   width: 100%;
   height: 100%;
 }
 
 .b span {
-  font-size: 30px;
-  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 50px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -22,13 +22,13 @@
 }
 
 .roma {
-    background-image: url(img/roma.jpeg);
+    background-image: url(img/roma.jpg);
 }
 
 .londra {
-  background-image: url(img/londra.jpeg);
+  background-image: url(img/londra.jpg);
 }
 
 .parigi {
-  background-image: url(img/parigi.jpeg);
+  background-image: url(img/parigi.jpg);
 }
